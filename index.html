@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Style Fitness Center</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="css/nav.css">
+        <link rel="stylesheet" href="css/main1.css">
+        <link rel="stylesheet" href="css/cslayout.css">
+
+        <script type="text/javascript" src="js/jquery-3.1.1.js"></script>
+        <script type="text/javascript" src="js/navi.js"></script>
+        <script type="text/javascript" src="js/main1.js"></script>
+        <script>
+
+            $(document).ready(function () {
+                $('#nav1').load("menu.html");
+                $('#content1').load("main1.html");
+                $('#footer1').load("footer.html");
+            });
+
+        </script>
+
+    </head>
+    <!--<body style="background-color: red">-->
+    <body>
+
+        <div id="nav1"></div>
+        <div id="content1"></div>
+        <div id="footer1"></div>
+
+    </body>
+</html>

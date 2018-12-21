@@ -1,0 +1,137 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 25, 2017, 1:07:40 PM
+    Author     : chama
+*/
+
+body{
+    /*background-color: #008bff;*/
+    /*background-color: red;*/
+    margin: 0;
+    padding: 0;
+}
+
+
+input{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    color: #007bff;
+    font-weight: bold;
+}
+
+select{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    color: #007bff;
+    font-weight: bold;
+}
+
+textarea{
+    width: 100%;
+    color: #007bff;
+    font-weight: bold;
+}
+
+button{
+    background: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background: #cc0000;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+h1{
+    color: #007bff;
+}
+h3{
+    color: #007bff;
+}
+
+p{
+    color: #007bff;
+    font-weight: bold;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+}
+
+.next1{
+    overflow: auto;
+}
+
+div.v1{
+    width: 100%;
+}
+
+div.v1 div.vimg1{
+    width: 60%;
+    float: left;
+}
+
+div.v1 div.vtext1{
+    width: 40%;
+    float: left;
+}
+
+ 
+
+div.content1{
+    width: 100%;
+    text-align: center;
+}
+
+div.col-1{
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    max-width: 400px;
+    text-align: center;
+    background-color: #f4f6f7;
+}
+
+
+.img-res-1{
+    margin: 2%;
+    width: 96%;
+    border-top-left-radius: 100px;
+}
+.img-res-2{
+    margin: 2%;
+    width: 96%;
+    border-radius: 5px;
+}
+.img-res-3{
+    margin: 2%;
+    width: 96%;
+    border-top-right-radius: 100px;
+}
+
+div.col-1 a{
+    float: right;
+}
+
+.ft1{
+    /*background-color: black;*/
+    /*width: 96%;*/
+    /*margin: 2%;*/
+    column-count: 4;
+    column-width: 10px;
+       
+}
+
+ 

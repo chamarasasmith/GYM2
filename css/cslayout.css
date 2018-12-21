@@ -1,0 +1,156 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 27, 2017, 3:36:10 PM
+    Author     : chama
+*/
+
+  
+ 
+ @media(min-width:240px){
+.mob-1,.mob-2,.mob-3,.mob-4,.mob-5,.mob-6,.mob-7,.mob-8,.col-t-9,.mob-10,.mob-11,.mob-12{
+    position:relative;
+    min-height:1px;
+    /*padding-right:15px;*/
+    /*padding-left:15px;*/
+    float:left;
+}
+
+.mob-1{
+    width: 8.33333333%;
+}
+.mob-2{
+    width: 16.66666667%;
+}
+.mob-3{
+    width: 25%;
+}
+.mob-4{
+    width: 33.33333333%;
+}
+.mob-5{
+    width: 41.66666667%;
+}
+.mob-6{
+    width: 50%;
+}
+.mob-7{
+    width: 58.33333333%;
+}
+.mob-8{
+    width: 66.66666667%;
+}
+.mob-9{
+    width: 75%;
+}
+.mob-10{
+    width: 83.33333333%;
+}
+.mob-11{
+    width: 91.66666667%;
+}
+.mob-12{
+    width: 100%;
+}
+
+ }
+ 
+ 
+ @media(min-width: 600px){
+.tab-1,.tab-2,.tab-3,.tab-4,.tab-5,.tab-6,.tab-7,.tab-8,.col-t-9,.tab-10,.tab-11,.tab-12{
+    position:relative;
+    min-height:1px;
+    /*padding-right:15px;*/
+    /*padding-left:15px;*/
+    float:left;
+}
+
+.tab-1{
+    width: 8.33333333%;
+}
+.tab-2{
+    width: 16.66666667%;
+}
+.tab-3{
+    width: 25%;
+}
+.tab-4{
+    width: 33.33333333%;
+}
+.tab-5{
+    width: 41.66666667%;
+}
+.tab-6{
+    width: 50%;
+}
+.tab-7{
+    width: 58.33333333%;
+}
+.tab-8{
+    width: 66.66666667%;
+}
+.tab-9{
+    width: 75%;
+}
+.tab-10{
+    width: 83.33333333%;
+}
+.tab-11{
+    width: 91.66666667%;
+}
+.tab-12{
+    width: 100%;
+}
+
+ }
+
+ 
+@media(min-width:768px){
+.des-1,.des-2,.des-3,.des-4,.des-5,.des-6,.des-7,.des-8,.col-t-9,.des-10,.des-11,.des-12{
+    position:relative;
+    min-height:1px;
+    /*padding-right:15px;*/
+    /*padding-left:15px;*/
+    float:left;
+}
+
+.des-1{
+    width: 8.33333333%;
+}
+.des-2{
+    width: 16.66666667%;
+}
+.des-3{
+    width: 25%;
+}
+.des-4{
+    width: 33.33333333%;
+}
+.des-5{
+    width: 41.66666667%;
+}
+.des-6{
+    width: 50%;
+}
+.des-7{
+    width: 58.33333333%;
+}
+.des-8{
+    width: 66.66666667%;
+}
+.des-9{
+    width: 75%;
+}
+.des-10{
+    width: 83.33333333%;
+}
+.des-11{
+    width: 91.66666667%;
+}
+.des-12{
+    width: 100%;
+}
+ }
